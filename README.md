@@ -557,6 +557,11 @@ With these functionalities, the AI assistant can summarize key points within an 
         <td> <a href="https://github.com/songquanpeng/one-api">One API</a> </td>
         <td> One API is a LLM API management & key redistribution system, unifying multiple providers under a single API. Single binary, Docker-ready, with an English UI.</td>
     </tr>
+    <tr>
+        <td> <img src="https://raw.githubusercontent.com/Health-525/courseraptor/main/docs/courseraptor-logo.png" alt="Icon" width="64" height="auto" /> </td>
+        <td> <a href="https://github.com/Health-525/courseraptor">CourseRaptor</a> </td>
+        <td> An open-source, local-first campus AI assistant for university students. Query timetables, grades, exams and academic affairs announcements through natural language, powered by the DeepSeek API with a 31-tool agent loop. Credentials are encrypted on-device (AES-256-GCM) with zero telemetry. Terminal TUI, web UI and a QQ bot share one agent.</td>
+    </tr>
 </table>
 
 <p style="text-align: right;"><a href="#table-of-contents">^ Back to Contents ^</a></p>
